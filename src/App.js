@@ -1,3 +1,9 @@
+// https://stackoverflow.com/questions/62429754/how-to-upload-a-file-to-s3-bucket-with-axios-using-react-and-a-presigned-using-a
+// https://medium.com/@diego.f.rodriguezh/direct-image-upload-to-aws-s3-with-react-and-express-2f063bc15430
+
+// https://sanderknape.com/2017/08/using-pre-signed-urls-upload-file-private-s3-bucket/
+// This^^
+
 import React, { useState } from 'react'
 import ImageUploader from 'react-images-upload'
 import Axios from 'axios'
